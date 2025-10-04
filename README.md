@@ -22,8 +22,10 @@ This project develops a predictive model to identify employees at risk of leavin
 - **Business Impact**: Identified actionable factors for improving employee retention strategies
 
 ## Project Structure
-- `data/`: Contains the IBM HR Analytics dataset (WA_Fn-UseC_-HR-Employee-Attrition)
-- `report/`: Detailed analysis report and documentation (Report-Copy_Predictive-Model-for-Employee-Attrition)
+- `data/`: Contains the IBM HR Analytics dataset (`WA_Fn-UseC_-HR-Employee-Attrition`)
+- `report/`: Detailed analysis report and documentation (`Report-Copy_Predictive-Model-for-Employee-Attrition`)
+
+**Note**: The report file is large in size. To view it properly, please download or click on "View Raw" when accessing the file.
 
 ## Conclusion
 This project demonstrates how machine learning can effectively predict employee attrition, enabling HR departments to implement targeted retention strategies. The models provide a data-driven approach to reduce turnover costs and improve workforce stability.
